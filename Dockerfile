@@ -1,5 +1,4 @@
-# Dockerfile for Flaskr, a minimal Python blog application powered by Flask
-# Flaskr source code: https://github.com/mitsuhiko/flask/tree/0.10.1/examples/flaskr
+# Dockerfile for a simple Flask application
 
 # Use the Python 2.7 ONBUILD image as our base image
 FROM python:2.7-onbuild
